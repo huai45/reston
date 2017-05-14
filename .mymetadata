@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="RestOnFinal"
+  id="myeclipse.1483238241461"
+  context-root="/"
+  j2ee-spec="5.0"
+  archive="RestOnFinal.war">
+  <attributes>
+    <attribute name="webrootdir" value="ROOT" />
+  </attributes>
+</project-module>
+
